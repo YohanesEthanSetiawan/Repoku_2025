@@ -1,2 +1,3 @@
 isi dari file 1 dari lokal
-saya lakukan perubahan woi
+mengubah baris 1 dari remote di myBranch1
+baris ini ditambahkan lewat branch1
